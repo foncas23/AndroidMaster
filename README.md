@@ -23,8 +23,12 @@ Este repositorio contendrá:
 
 ## Progreso
 
-* **Fundamentos de Kotlin:** [En progreso/Completado]
-* **Conceptos básicos de Android:** [En progreso/Completado]
+* **Fundamentos de Kotlin:** [En progreso]
+    * Declaración de variables y constantes
+    * Tipos de datos
+    * Cración de funciones básicas
+    * Estructuras IF-ELSE Y WHEN
+* **Conceptos básicos de Android:** [En progreso]
 * **Proyectos:**
     * [Nombre del proyecto 1]: [Descripción breve y enlace]
     * [Nombre del proyecto 2]: [Descripción breve y enlace]
