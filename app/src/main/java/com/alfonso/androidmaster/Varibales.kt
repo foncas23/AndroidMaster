@@ -65,8 +65,4 @@ fun main(){
     println("Multiplicación: ${num1*num2}")
     println("División: ${num1/num2}")
 
-
-
-
-
 }
